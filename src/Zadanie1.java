@@ -16,6 +16,10 @@ public class Zadanie1 {
             if (i % 11 == 0) {
                 word += "jedenascie";
             }
+            if (i % 13 == 0) {
+                word += "jedenascie";
+            }
+
             if (word.length() == 0)
                 System.out.println(i);
             else
