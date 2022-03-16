@@ -17,7 +17,7 @@ public class Zadanie1 {
                 word += "jedenascie";
             }
             if (i % 13 == 0) {
-                word += "jedenascie";
+                word += "trzynascie";
             }
 
             if (word.length() == 0)
