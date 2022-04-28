@@ -79,5 +79,4 @@ fun main(args: Array<String>) {
         return sings.groupingBy { it }.eachCount()
     }
     //println(countElements(arrayListOf(arrayListOf('a','b'),arrayListOf('c','d','c','c'))))
-
 }
